@@ -50,4 +50,7 @@ class Account:			# class starts with a capital letter and the term should be sin
 
 myAccount1 = Account()
 print(myAccount1.deposit(400))
+print(myAccount1.deposit(200))
+print(myAccount1.deposit(1))
+
 
